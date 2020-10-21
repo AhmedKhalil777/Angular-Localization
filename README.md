@@ -1,0 +1,2 @@
+# Angular-Localization
+Different Languages
