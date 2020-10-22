@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="ar-EG" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="1c9de5f288700d96b51b0ded525d2ce9610034b9" datatype="html">
+        <source>
+    السلام عليكم
+  </source>
+          <target>
+Hello World
+  </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="620179407c9db7d2ec49dc7a3e8c80c56835db2c" datatype="html">
+        <source>
+      و عليكم السلام
+  </source>
+            <target>
+Hello Next
+  </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
